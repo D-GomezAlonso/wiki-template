@@ -8,6 +8,12 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        nunito: "Nunito Sans",
+      },
+      colors: {
+        articleDivider: "#FEFEFE",
+      },
       backgroundImage: {
         "site-background": "url('./assets/background.jpg')",
       },
